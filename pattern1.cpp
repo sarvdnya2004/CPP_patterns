@@ -12,3 +12,9 @@ int main(){
         cout<<endl;
     }
 }
+
+// enter the size of n and m4 5
+// *****
+// *****
+// *****
+// *****

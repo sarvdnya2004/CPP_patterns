@@ -18,3 +18,8 @@ int main()
         cout<<endl;
     }
 }
+// enter the n and m4 5
+// *****
+// *   *
+// *   *
+// *****

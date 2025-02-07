@@ -14,3 +14,9 @@ int main()
         cout<<endl;
     }
 }
+
+// enter the n4
+// ****
+// ***
+// **
+// *

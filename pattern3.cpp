@@ -13,3 +13,9 @@ int main()
         cout<<endl;
     }
 }
+
+// enter the value of n 4 5
+// *
+// **
+// ***
+// ****
